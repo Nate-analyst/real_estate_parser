@@ -42,8 +42,7 @@ Kufar/
 ```
 
 ## Зависимости
-- Python 3.8+
+- Python 
 - pandas
 - requests
-- BeautifulSoup4
 - Power BI Desktop (для визуализации)
